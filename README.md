@@ -11,6 +11,6 @@ Place the .eslintrc.json file in a project folder for local configuration or in 
 - eslint-plugin-react-native 
 - eslint-plugin-standard
 
-##Note
+## Note
 If above packages are installed in global mode, do not need to install it in
 the project folder.
